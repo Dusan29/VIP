@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run vip_model.py
+web: sh setup.sh && streamlit run VIP_model.py
